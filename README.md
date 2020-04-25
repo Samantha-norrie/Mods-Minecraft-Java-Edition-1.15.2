@@ -5,6 +5,11 @@ as my IDE of choice.
 
 Descriptions of all mods (in alphabetical order):
 
+BREAD BLOCK MOD:
+Allows bread to be made into a block. The bread block can be 
+crafted with nine loaves of bread. When broken, the bread 
+block will drop nine loaves of bread. 
+
 HOLD HEARTS MOD:
 A simple mod that allows the player to have a small heart as an 
 item (found in the decorations tab). Use with a frame to add a 
