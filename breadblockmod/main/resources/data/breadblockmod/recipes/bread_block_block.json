@@ -1,0 +1,18 @@
+{
+   "type": "minecraft:crafting_shaped",
+   "pattern": [
+     "bbb",
+     "bbb",
+     "bbb"
+   
+   ],
+   "key":{
+     "b":{
+        "item": "minecraft:bread"
+      }
+     },
+     "result":{
+        "item": "breadblockmod:bread_block_block"
+     }
+
+}
