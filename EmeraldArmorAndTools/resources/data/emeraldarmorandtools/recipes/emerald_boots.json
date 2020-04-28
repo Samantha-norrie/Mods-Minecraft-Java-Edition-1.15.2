@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e e",
+    "e e",
+    "   "
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },  
+  "result": {
+    "item": "emeraldarmorandtools:emerald_boots"
+  }
+}

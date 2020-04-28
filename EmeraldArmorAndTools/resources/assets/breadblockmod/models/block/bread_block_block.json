@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures":{
+        "all": "breadblockmod:blocks/bread_block_block"
+    }
+}
