@@ -10,6 +10,9 @@ Allows bread to be made into a block. The bread block can be
 crafted with nine loaves of bread. When broken, the bread 
 block will drop nine loaves of bread. 
 
+EMERALD ARMOR AND TOOLS MOD:
+Emeralds can be used to craft armor, swords, and tools. Stronger than iron, but missing the diamond touch... a nice in-between material for everyday exploring!
+
 HOLD HEARTS MOD:
 A simple mod that allows the player to have a small heart as an 
 item (found in the decorations tab). Use with a frame to add a 
