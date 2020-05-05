@@ -5,6 +5,11 @@ as my IDE of choice.
 
 Descriptions of all mods (in alphabetical order):
 
+A PALMY DAY MOD *STILL UNDER DEVELOPMENT*:
+Some palm tree assets, which will hopefully become a whole palm tree someday! 
+1.0.1: Coconuts, coconut remains (edible), coconut milk (craftable and edible), custom creative tab for palm tree assets, palm button, palm log (smeltable), palm pressure plate, palm wood, tools (all tools can be made out of palm planks) 
+
+
 BREAD BLOCK MOD:
 Allows bread to be made into a block. The bread block can be 
 crafted with nine loaves of bread. When broken, the bread 
