@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pp ",
+    "ps ",
+    " s "
+  ],
+  "key": {
+    "p": {
+      "item": "palmtrees:palm_wood"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_axe"
+  }
+}

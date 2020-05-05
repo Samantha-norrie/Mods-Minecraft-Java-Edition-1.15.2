@@ -1,0 +1,8 @@
+[{
+	"modid": "breadblockmod",
+	"name": "Bread Block Mod".
+	"description": "Bread, but as a block!",
+	"version": "1.0.0.0",
+	"mcversion": "1.15.2",
+	"authorList": ["Samantha Norrie"],
+}]	

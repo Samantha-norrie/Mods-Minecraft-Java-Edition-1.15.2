@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end":"palmtrees:blocks/palm_tree_wood_top",
+        "side": "palmtrees:blocks/palm_tree_wood"
+    }
+}

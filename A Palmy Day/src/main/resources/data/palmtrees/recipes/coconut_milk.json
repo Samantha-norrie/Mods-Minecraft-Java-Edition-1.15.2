@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+       "item": "palmtrees:coconut_remains"
+    },
+    {
+       "item":"minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "palm_trees:coconut_milk"
+  }
+}

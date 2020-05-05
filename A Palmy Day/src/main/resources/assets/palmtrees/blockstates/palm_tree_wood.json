@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "palmtrees:block/palm_tree_wood"},
+        "axis=z":   { "model": "palmtrees:block/palm_tree_wood", "x": 90},
+        "axis=x":   { "model": "palmtrees:block/palm_tree_wood", "x": 90, "y": 90}
+    }
+}

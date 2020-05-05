@@ -1,0 +1,13 @@
+{
+    "item.palmtrees.coconut_remains": "Coconut Remains",
+    "item.palmtrees.coconut_milk": "Coconut Milk",
+    
+    "block.palmtrees.coconut": "Coconut",
+    "block.palmtrees.palm_wood": "Palm Planks",
+    "block.palmtrees.palm_tree_wood": "Palm Wood",
+    "block.palmtrees.palm_stairs": "Palm Stairs",
+    "block.palmtrees.palm_fence": "Palm Fence",
+    "block.palmtrees.palm_button": "Palm Button",
+    "block.palmtrees.palm_pressure_plate": "Palm Pressure Plate",
+    "itemGroup.palmtab": "Palm Tab"  
+}

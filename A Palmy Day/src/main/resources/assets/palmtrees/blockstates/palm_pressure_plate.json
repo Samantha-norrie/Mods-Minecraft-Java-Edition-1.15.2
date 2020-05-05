@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "palmtrees:block/palm_pressure_plate" },
+        "powered=true": { "model": "palmtrees:block/palm_pressure_plate_down" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "palmtrees:blocks/palm_wood"
+    }
+}
